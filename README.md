@@ -1,8 +1,8 @@
 # Flask_apps
 
-Bunch of Flask application, aim is to learn and showcase the developed ML models in python with frontend 
+Bunch of Flask applications, aim is to learn and showcase the developed ML models in python with frontend 
 
-Here are the applications
+Here are the application(s)
 
 **1. URL Shortener (url-shortener) -** 
 * Creating my first route in a Flask project
