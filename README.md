@@ -4,7 +4,7 @@ Bunch of Flask application, aim is to learn and showcase the developed ML models
 
 Here are the applications
 
-**1. URL Shortener -** 
+**1. URL Shortener (url-shortener) -** 
 * Creating my first route in a Flask project
 * Working with page templates in Flash with Jinja
 * Using GET and POST requests in Flask
