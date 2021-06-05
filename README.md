@@ -11,5 +11,10 @@ Here are the application(s)
 * Data flow in Flask
 * Setting up an API in Flask
 * Templating flask with Bootstrap
+* App Link - https://ui-model.herokuapp.com/
+
+Help taken for app hosting - https://stackabuse.com/deploying-a-flask-application-to-heroku
+
+
 
 -- More applications to come --
